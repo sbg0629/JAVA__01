@@ -13,5 +13,7 @@ public class _03_Operator3 {
 
         System.out.println(5 == 5);
         System.out.println(5 == 3);
+        System.out.println(5 != 5);
+        System.out.println(5 != 3);
     }
 }
