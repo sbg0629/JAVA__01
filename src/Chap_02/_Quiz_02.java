@@ -10,7 +10,7 @@ public class _Quiz_02 {
 
     /* 실행결과
        키가 115cm이므로 탑승 불가능 합니다 ,값이 115인 경우
-       키가 121cm이므로 탑승 가능합니다. ,값이 121인경우
+       키가 121cm이므로 탑승 가능합니다. ,값이 121인경우.
      */
 
     public static void main(String[] args) {
